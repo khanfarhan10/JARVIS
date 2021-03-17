@@ -1,6 +1,9 @@
 # JARVIS
 Just A Rather Very Intelligent System (J.A.R.V.I.S.)! NLP UI, Voice Command Activation and more. Chatbot with Speech Recognition.
 
+Ideas -
+- Speech Synthesis Script
+- Speech Recognition Scripts
 
 # Basics
 - Telegram or Discord Bot (https://medium.com/analytics-vidhya/python-telegram-bot-with-scheduled-tasks-932edd61c534)
